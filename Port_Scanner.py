@@ -3,7 +3,7 @@ import sys
 import time
 import threading
 
-usage = "python3 port_scaan.py TARGet start_port END_port"
+usage = "python3 port_scaan.py TARGET start_port END_port"
 
 print("_"*70)
 print("")
