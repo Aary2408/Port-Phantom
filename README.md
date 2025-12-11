@@ -6,7 +6,7 @@ Port-Phantom is a fast and stealth-oriented TCP port scanning tool built using P
 
 A fast multithreaded port scanner written in Python.
 
-#🔥 Features
+🔥 Features
 
 ⚡ High-speed multithreaded scanning
 
